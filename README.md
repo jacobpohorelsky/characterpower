@@ -1,0 +1,2 @@
+# characterpower
+MMP 100
